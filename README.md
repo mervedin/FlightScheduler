@@ -21,3 +21,6 @@ The Airline Flight Scheduling System is a software project designed to manage fl
 - **Flight Crew Qualifications**: Track qualifications and certifications of flight crew members to ensure they are eligible for specific flights.
 
 - **Availability Checks**: Perform availability checks to determine if a flight is possible based on criteria such as crew availability, aircraft availability, and time constraints.
+
+
+![Image Alt Text](flightSchedulerClassDiagram.drawio.png)
